@@ -1,2 +1,6 @@
 primeiro arquivo
+<<<<<<< HEAD
 editado na brnach
+=======
+editado direto no github
+>>>>>>> 60db8bf101b1efbadbc040fabb56e7392a56efdc
